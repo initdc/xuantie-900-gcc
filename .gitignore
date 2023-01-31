@@ -1,0 +1,8 @@
+target/
+upload/
+
+build/
+cache/
+
+u-boot/
+linux/

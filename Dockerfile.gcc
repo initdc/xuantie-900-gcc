@@ -1,0 +1,11 @@
+FROM ubuntu:{version}
+
+ARG DEBIAN_FRONTEND=noninteractive
+
+RUN set -e \
+    && sed -i 's/# deb-src/deb-src/g' /etc/apt/sources.list
+
+ADD cache/prebuilt/{xuantie_ver}/{glibc} /root/{glibc}
+ADD cache/prebuilt/{xuantie_ver}/{elf} /root/{elf}
+
+ENV PATH="$PATH:/root/{glibc}:/root/{elf}"

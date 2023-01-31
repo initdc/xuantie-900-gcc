@@ -1,0 +1,14 @@
+FROM ubuntu:{version}
+
+ARG DEBIAN_FRONTEND=noninteractive
+
+RUN set -e \
+    && sed -i 's/# deb-src/deb-src/g' /etc/apt/sources.list \
+    && apt-get update
+
+RUN set -e \
+    && apt-get build-dep -y linux
+
+ADD cache/prebuilt/{xuantie_ver}/{glibc} /root/{glibc}
+
+ENV PATH="$PATH:/root/{glibc}"

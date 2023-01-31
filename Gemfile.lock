@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    libconsole (0.3.0)
+    libexec (0.2.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  libconsole (~> 0.3)
+  libexec (~> 0.2)
+
+BUNDLED WITH
+   2.4.1
