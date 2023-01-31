@@ -1,0 +1,12 @@
+ac5430aa375bdabe6af3576cde77a02a  Xuantie-900-gcc-elf-newlib-i386-V2.6.1-20220906.tar.gz
+18047ee76f377318ed06409d01bdbe38  Xuantie-900-gcc-elf-newlib-mingw-V2.6.1-20220906.tar.gz
+8c06cbe608cdd4496df6990c9db346e0  Xuantie-900-gcc-elf-newlib-x86_64-V2.6.1-20220906.tar.gz
+3349c2564cdbb4ed35eb12be9f24fc61  Xuantie-900-gcc-linux-5.10.4-glibc-i386-V2.6.1-20220906.tar.gz
+15c0751268cb9f68a6bca7c842d6c3ae  Xuantie-900-gcc-linux-5.10.4-glibc-mingw-V2.6.1-20220906.tar.gz
+8522c7ae77eaf7ff1710ca681b78dd8b  Xuantie-900-gcc-linux-5.10.4-glibc-x86_64-V2.6.1-20220906.tar.gz
+1e4e5dfb9ceca850659ddd4f52aae50b  Xuantie-900-gcc-linux-5.10.4-musl32-i386-V2.6.1-20220906.tar.gz
+2b6217ceba08ac470fafa18a24093817  Xuantie-900-gcc-linux-5.10.4-musl32-mingw-V2.6.1-20220906.tar.gz
+926b151b409dec4f89021ab63466c18e  Xuantie-900-gcc-linux-5.10.4-musl32-x86_64-V2.6.1-20220906.tar.gz
+3a04618f944d31a89880696efcb0edad  Xuantie-900-gcc-linux-5.10.4-musl64-i386-V2.6.1-20220906.tar.gz
+8d848db1ee8ffd4ae8f9b9fbece3fccb  Xuantie-900-gcc-linux-5.10.4-musl64-mingw-V2.6.1-20220906.tar.gz
+fe77e2a96e57be60ac4ae7eb94d6e899  Xuantie-900-gcc-linux-5.10.4-musl64-x86_64-V2.6.1-20220906.tar.gz
